@@ -1,0 +1,142 @@
+C:\Users\Youcode\source\repos\absence\absence\bin\Debug\absence.exe.config
+C:\Users\Youcode\source\repos\absence\absence\bin\Debug\absence.exe
+C:\Users\Youcode\source\repos\absence\absence\bin\Debug\absence.pdb
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\absence.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\ApprdashB.g.cs
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\App.g.cs
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\absence_MarkupCompile.cache
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\absence_MarkupCompile.lref
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\absence.g.resources
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\absence.Properties.Resources.resources
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\absence.csproj.GenerateResource.cache
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\absence.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\absence.exe
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\absence.pdb
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\ApprdashB.baml
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\MainWindow.baml
+C:\Users\Youcode\source\repos\absence\absence\bin\Debug\MaterialDesignColors.dll
+C:\Users\Youcode\source\repos\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Youcode\source\repos\absence\absence\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Youcode\source\repos\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Youcode\source\repos\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\App.baml
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\absence.csproj.CopyComplete
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\Template.g.cs
+C:\Users\Youcode\source\repos\absence\absence\obj\Debug\Template.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\bin\Debug\absence.exe.config
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\bin\Debug\absence.exe
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\bin\Debug\absence.pdb
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\bin\Debug\MaterialDesignColors.dll
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\absence.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\ApprdashB.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\Template.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\App.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\absence_MarkupCompile.cache
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\absence_MarkupCompile.lref
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\App.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\ApprdashB.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\MainWindow.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\Template.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\absence.g.resources
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\absence.Properties.Resources.resources
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\absence.csproj.GenerateResource.cache
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\absence.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\absence.csproj.CopyComplete
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\absence.exe
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence\absence\absence\obj\Debug\absence.pdb
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\bin\Debug\absence.exe.config
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\bin\Debug\absence.exe
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\bin\Debug\absence.pdb
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\bin\Debug\MaterialDesignColors.dll
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\ApprdashB.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\Template.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\App.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\absence_MarkupCompile.cache
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\absence_MarkupCompile.lref
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\App.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\ApprdashB.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\MainWindow.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\Template.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.g.resources
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.Properties.Resources.resources
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.csproj.GenerateResource.cache
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.csproj.CopyComplete
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.exe
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.pdb
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.exe
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.pdb
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\bin\Debug\absence.exe.config
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\bin\Debug\absence.exe
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\bin\Debug\absence.pdb
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\bin\Debug\MaterialDesignColors.dll
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\ApprdashB.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\Template.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\App.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\absence_MarkupCompile.cache
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\absence_MarkupCompile.lref
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\App.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\ApprdashB.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\MainWindow.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\Template.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.g.resources
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.Properties.Resources.resources
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.csproj.GenerateResource.cache
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\absence.csproj.CopyComplete
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\Formateur1.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\Formateur1.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\apprenant.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\apprenant.baml
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\Secretaire.g.cs
+C:\Users\Youcode\source\repos\Gestion.Absence-main (1)\ooooooof\Gestion.Absence 9dim\absence\absence\obj\Debug\Secretaire.baml
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\bin\Debug\absence.exe.config
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\bin\Debug\absence.exe
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\bin\Debug\absence.pdb
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\bin\Debug\MaterialDesignColors.dll
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\absence.csprojAssemblyReference.cache
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\ApprdashB.g.cs
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\apprenant.g.cs
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\Formateur1.g.cs
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\Secretaire.g.cs
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\Template.g.cs
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\App.g.cs
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\absence_MarkupCompile.cache
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\absence_MarkupCompile.lref
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\App.baml
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\ApprdashB.baml
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\apprenant.baml
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\Formateur1.baml
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\Secretaire.baml
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\Template.baml
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\absence.g.resources
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\absence.Properties.Resources.resources
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\absence.csproj.GenerateResource.cache
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\absence.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\absence.csproj.CopyComplete
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\absence.exe
+C:\Users\Youcode\Downloads\absence (3)\absence\absence\obj\Debug\absence.pdb
